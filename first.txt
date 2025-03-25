@@ -1,1 +1,3 @@
 this file is in staging area
+this is diff of working and staging area
+this is third line
